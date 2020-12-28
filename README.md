@@ -1,4 +1,4 @@
-# GitHub Browser
+# Breaking Bad Character Browser
 
 ## Overview
 
